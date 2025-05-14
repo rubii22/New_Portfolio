@@ -64,7 +64,7 @@ export default function ContactPage() {
       {/* Social Media Links */}
       <div className="mt-10 flex space-x-8 text-3xl">
         <a
-          href="https://www.linkedin.com/in/rubii22"
+          href="https://www.linkedin.com/in/rubab-fatima-3636242b5/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-400 hover:text-white transition duration-300"
